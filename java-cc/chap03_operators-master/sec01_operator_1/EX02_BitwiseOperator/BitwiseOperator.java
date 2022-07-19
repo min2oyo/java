@@ -3,6 +3,7 @@ package sec01_operator_1.EX02_BitwiseOperator;
 /*다양한 진법의 표현과 비트연산자*/
 
 public class BitwiseOperator {
+
 	public static void main(String[] args) {
 
 		// #0. 자바코드로 진법 변환
@@ -52,4 +53,5 @@ public class BitwiseOperator {
 		System.out.println(~0x03); // -4
 
 	}
+
 }

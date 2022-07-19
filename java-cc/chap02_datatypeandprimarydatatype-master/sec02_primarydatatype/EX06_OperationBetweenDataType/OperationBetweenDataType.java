@@ -3,6 +3,7 @@ package sec02_primarydatatype.EX06_OperationBetweenDataType;
 /*같은 자료형간의 연산과 다른 자료형간의 연산*/
 
 public class OperationBetweenDataType {
+
 	public static void main(String[] args) {
 
 		// #1.같은 자료형간의 연산
@@ -39,6 +40,7 @@ public class OperationBetweenDataType {
 		System.out.println(value8); // 2.5
 		System.out.println(value9); // 8
 		System.out.println(value10); // 8.0
-		
+
 	}
+
 }

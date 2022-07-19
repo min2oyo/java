@@ -4,6 +4,7 @@ package sec01_datatype.EX02_NamingVariableAndConstant;
 
 @SuppressWarnings("unused")
 public class NamingVariableAndConstant {
+	
 	public static void main(String[] args) {
 
 		// 변수
@@ -25,4 +26,5 @@ public class NamingVariableAndConstant {
 		final float myData; // 가능은 하지만 소문자 사용은 권장하지 않음
 
 	}
+
 }

@@ -4,10 +4,11 @@ package sec01_operator_1.EX05_LogicalOperator;
 
 @SuppressWarnings("unused")
 public class LogicalOperator {
+
 	public static void main(String[] args) {
-		
+
 		// #1.논리연산자
-		
+
 		// @AND (&&)
 		System.out.println(true && true); // true
 		System.out.println(true && false); // false
@@ -36,7 +37,7 @@ public class LogicalOperator {
 		System.out.println((5 <= 5) || !(7 > 2)); // true
 
 		// #2. 비트연산자로 논리연산 수행
-		
+
 		System.out.println(true & true); // true
 		System.out.println(true & false); // false
 		System.out.println(true | (5 < 3)); // true
@@ -59,6 +60,7 @@ public class LogicalOperator {
 		int value4 = 3;
 		System.out.println(true | ++value4 > 6); // true
 		System.out.println(value4); // 4
-		
+
 	}
+
 }

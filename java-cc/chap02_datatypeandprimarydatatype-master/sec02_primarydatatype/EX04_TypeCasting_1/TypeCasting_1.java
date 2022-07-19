@@ -3,6 +3,7 @@ package sec02_primarydatatype.EX04_TypeCasting_1;
 /*두 가지 타입 변환 방법*/
 
 public class TypeCasting_1 {
+
 	public static void main(String[] args) {
 
 		// #1. 캐스팅 방법
@@ -31,4 +32,5 @@ public class TypeCasting_1 {
 		System.out.println(value8); // 5.8
 
 	}
+
 }

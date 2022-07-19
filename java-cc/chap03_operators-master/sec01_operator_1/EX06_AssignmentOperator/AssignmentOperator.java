@@ -3,6 +3,7 @@ package sec01_operator_1.EX06_AssignmentOperator;
 /*대입연산자 및 축약표현*/
 
 public class AssignmentOperator {
+
 	public static void main(String[] args) {
 
 		// #1. 대입연산자 와 축약 표현
@@ -35,4 +36,5 @@ public class AssignmentOperator {
 		System.out.println(value2 >>>= 2); // 1
 
 	}
+
 }

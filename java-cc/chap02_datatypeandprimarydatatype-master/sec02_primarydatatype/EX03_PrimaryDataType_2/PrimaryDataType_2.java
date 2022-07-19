@@ -3,10 +3,11 @@ package sec02_primarydatatype.EX03_PrimaryDataType_2;
 /*문자 값의 다양한 저장방법 및 출력*/
 
 public class PrimaryDataType_2 {
+
 	public static void main(String[] args) {
 
 		// #4. 문자(char) : 문자, 정수
-		
+
 		// #4-1. 문자로 저장하는 방법
 		char value1 = 'A';
 		char value2 = '가';
@@ -32,6 +33,7 @@ public class PrimaryDataType_2 {
 		System.out.println(value7); // A
 		System.out.println(value8); // 가
 		System.out.println(value9); // 3
-		
+
 	}
+
 }

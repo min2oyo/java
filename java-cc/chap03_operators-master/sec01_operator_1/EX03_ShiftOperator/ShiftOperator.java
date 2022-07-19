@@ -3,6 +3,7 @@ package sec01_operator_1.EX03_ShiftOperator;
 /*산술쉬프트와 논리쉬프트*/
 
 public class ShiftOperator {
+
 	public static void main(String[] args) {
 
 		// #1.산술쉬프트(부호변화가 없음 *2, /2 효과)
@@ -27,4 +28,5 @@ public class ShiftOperator {
 		System.out.println(-3 >>> 31); // 1111...1101 = 1
 
 	}
+
 }

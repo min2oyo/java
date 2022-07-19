@@ -3,6 +3,7 @@ package sec02_primarydatatype.EX05_TypeCasting_2;
 /*자동타입변환과 수동타입변환*/
 
 public class TypeCasting_2 {
+
 	public static void main(String[] args) {
 
 		// #1. 자동타입변환 (업캐스팅 + byte/short 자료형 데이터 입력)
@@ -27,6 +28,7 @@ public class TypeCasting_2 {
 		System.out.println(value6); // -128
 		System.out.println(value7); // 3
 		System.out.println(value8); // 7.5
-		
+
 	}
+
 }

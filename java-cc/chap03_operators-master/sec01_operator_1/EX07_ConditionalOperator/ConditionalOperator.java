@@ -4,6 +4,7 @@ package sec01_operator_1.EX07_ConditionalOperator;
 
 @SuppressWarnings("unused")
 public class ConditionalOperator {
+
 	public static void main(String[] args) {
 
 		// #1. 삼항연산자
@@ -23,5 +24,7 @@ public class ConditionalOperator {
 		} else {
 			System.out.println("홀수");
 		}
+
 	}
+
 }
