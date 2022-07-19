@@ -7,6 +7,7 @@ public class ConsoleOutput {
 	public static void main(String[] ar) {
 
 		// #1. System.out.println(...)
+
 		System.out.println("안녕하세요"); // 안녕하세요
 		System.out.println("안녕" + "하세요"); // 안녕하세요
 		System.out.println(2 + 4); // 6
@@ -24,6 +25,7 @@ public class ConsoleOutput {
 		System.out.println();
 
 		// #2. System.out.print(...)
+
 		System.out.print("반갑");
 		System.out.print("습니다");
 		System.out.print("7");
@@ -31,6 +33,7 @@ public class ConsoleOutput {
 		System.out.print("\n"); // 반갑습니다7
 
 		// #3. System.out.printf(...)
+
 		System.out.printf("%d\n", 10); // 10
 		System.out.printf("%o\n", 10); // 12
 		System.out.printf("%x\n", 10); // a
