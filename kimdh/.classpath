@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="chap01_basicsyntax-master"/>
+	<classpathentry kind="src" path="chap02_datatypeandprimarydatatype-master"/>
+	<classpathentry kind="src" path="chap03_operators-master"/>
+	<classpathentry kind="src" path="chap04_controlstatement-master"/>
+	<classpathentry kind="src" path="chap05_referencedatatype-master"/>
+	<classpathentry kind="src" path="chap06_createobjectandusageofmembers-master"/>
+	<classpathentry kind="src" path="chap07_internalcomponents-master"/>
+	<classpathentry kind="src" path="chap08_externalcomponents-master"/>
+	<classpathentry kind="src" path="chap09_modifier_1-master"/>
+	<classpathentry kind="src" path="chap10_inheritancepolymorphism-master"/>
+	<classpathentry kind="src" path="chap11_modifier_2-master"/>
+	<classpathentry kind="src" path="chap12_abstractclassinterface-master"/>
+	<classpathentry kind="src" path="chap13_innerclassandinnerinterface-master"/>
+	<classpathentry kind="src" path="chap14_exceptionhandling-master"/>
+	<classpathentry kind="src" path="chap15_thread-master"/>
+	<classpathentry kind="src" path="chap16_generic-master"/>
+	<classpathentry kind="src" path="chap17_collectionframework-master"/>
+	<classpathentry kind="src" path="chap18_lambdaexpression-master"/>
+	<classpathentry kind="src" path="chap19_javaio-master"/>
+	<classpathentry kind="src" path="chap20_javanetwork-master"/>
+	<classpathentry kind="src" path="JavaSwing-master"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
