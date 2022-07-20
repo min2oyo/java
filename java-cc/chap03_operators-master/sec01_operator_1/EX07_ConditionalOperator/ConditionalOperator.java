@@ -1,6 +1,6 @@
 package sec01_operator_1.EX07_ConditionalOperator;
 
-/*삼항 연산자*/
+/* 삼항 연산자 */
 
 @SuppressWarnings("unused")
 public class ConditionalOperator {

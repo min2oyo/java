@@ -1,6 +1,6 @@
 package sec01_operator_1.EX06_AssignmentOperator;
 
-/*대입연산자 및 축약표현*/
+/* 대입연산자 및 축약표현 */
 
 public class AssignmentOperator {
 

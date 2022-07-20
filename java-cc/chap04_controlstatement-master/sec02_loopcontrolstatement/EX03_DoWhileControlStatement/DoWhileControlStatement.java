@@ -1,6 +1,6 @@
 package sec02_loopcontrolstatement.EX03_DoWhileControlStatement;
 
-/*do-while의 기본문법구조, do-while vs. while의 비교*/
+/* do-while의 기본문법구조, do-while vs. while의 비교 */
 
 public class DoWhileControlStatement {
 

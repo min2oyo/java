@@ -1,12 +1,10 @@
 package sec01_basicsyntax.EX01_JavaBasicStructure;
 
-/*생성 프로젝트 기본 구조*/
+/* 생성 프로젝트 기본 구조 */
 
-/* 
-	ctrl + shift + '/'
-	처음 만든 클래스
-	(여러 줄 주석)
-*/
+/*
+ * ctrl + shift + '/' 처음 만든 클래스 (여러 줄 주석)
+ */
 
 public class JavaBasicStructure {
 

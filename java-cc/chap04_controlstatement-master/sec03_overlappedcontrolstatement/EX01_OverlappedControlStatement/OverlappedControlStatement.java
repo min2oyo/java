@@ -1,6 +1,6 @@
 package sec03_overlappedcontrolstatement.EX01_OverlappedControlStatement;
 
-/*제어문의 중복*/
+/* 제어문의 중복 */
 
 public class OverlappedControlStatement {
 

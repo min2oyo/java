@@ -1,6 +1,6 @@
 package sec01_array.EX07_RectangleValueAssignment;
 
-/*2차원 정방행렬 배열의 4가지 배열 객체 생성 및 원소값 대입 방법*/
+/* 2차원 정방행렬 배열의 4가지 배열 객체 생성 및 원소값 대입 방법 */
 
 public class RectangleValueAssignment {
 

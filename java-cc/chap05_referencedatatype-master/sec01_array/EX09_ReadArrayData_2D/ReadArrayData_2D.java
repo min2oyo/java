@@ -1,6 +1,6 @@
 package sec01_array.EX09_ReadArrayData_2D;
 
-/*2차원 배열의 원소값 출력*/
+/* 2차원 배열의 원소값 출력 */
 
 public class ReadArrayData_2D {
 

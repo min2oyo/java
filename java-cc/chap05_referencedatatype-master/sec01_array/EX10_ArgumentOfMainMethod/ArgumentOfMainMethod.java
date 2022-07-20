@@ -1,9 +1,8 @@
 package sec01_array.EX10_ArgumentOfMainMethod;
 
-/*main 메서드로의 매개변수 전달*/
+/* main 메서드로의 매개변수 전달 */
 /*
- * Run - Run configurations - Java Application - 'ArgumentOfMainMethod' - '(x)=Arguments' 탭
- * '안녕하세요 3 5.8' 입력
+ * Run - Run configurations - Java Application - 'ArgumentOfMainMethod' - '(x)=Arguments' 탭 - '안녕하세요 3 5.8' 입력
  */
 
 public class ArgumentOfMainMethod {

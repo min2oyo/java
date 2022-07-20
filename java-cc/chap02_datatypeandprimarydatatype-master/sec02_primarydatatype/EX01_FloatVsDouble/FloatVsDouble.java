@@ -1,6 +1,6 @@
 package sec02_primarydatatype.EX01_FloatVsDouble;
 
-/*float과 double의 정밀도 비교*/
+/* float과 double의 정밀도 비교 */
 
 public class FloatVsDouble {
 

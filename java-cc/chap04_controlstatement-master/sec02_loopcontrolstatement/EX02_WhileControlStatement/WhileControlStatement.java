@@ -1,6 +1,6 @@
 package sec02_loopcontrolstatement.EX02_WhileControlStatement;
 
-/*while 반복제어문의 기본문법구조, for로 변환, 특수한 형태, 무한루프 탈출*/
+/* while 반복제어문의 기본문법구조, for로 변환, 특수한 형태, 무한루프 탈출 */
 
 public class WhileControlStatement {
 

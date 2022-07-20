@@ -1,6 +1,6 @@
 package sec01_operator_1.EX05_LogicalOperator;
 
-/*논리연산자와 비트연산자를 이용한 논리연산*/
+/* 논리연산자와 비트연산자를 이용한 논리연산 */
 
 @SuppressWarnings("unused")
 public class LogicalOperator {

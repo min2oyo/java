@@ -1,6 +1,6 @@
 package sec01_array.EX02_ValueAssignment;
 
-/*1차원 배열의 원소값 대입의 3가지 방법*/
+/* 1차원 배열의 원소값 대입의 3가지 방법 */
 
 public class ValueAssignment {
 

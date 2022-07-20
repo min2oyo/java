@@ -1,6 +1,6 @@
 package sec01_array.EX04_PrimaryAndReferenceType;
 
-/*기본자료형 vs. 참조자료형의 특징 비교*/
+/* 기본자료형 vs. 참조자료형의 특징 비교 */
 
 public class PrimaryAndReferenceType {
 

@@ -1,6 +1,6 @@
 package sec01_basicsyntax.EX03_ConsoleOutput;
 
-/*기본적인 콘솔 출력 방법*/
+/* 기본적인 콘솔 출력 방법 */
 
 public class ConsoleOutput {
 

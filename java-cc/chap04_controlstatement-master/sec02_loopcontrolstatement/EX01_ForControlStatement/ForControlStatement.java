@@ -1,6 +1,6 @@
 package sec02_loopcontrolstatement.EX01_ForControlStatement;
 
-/*for 반복제어문의 기본문법구조, 특수한 형태, 무한루프에서 탈출하기*/
+/* for 반복제어문의 기본문법구조, 특수한 형태, 무한루프에서 탈출하기 */
 
 public class ForControlStatement {
 
@@ -43,8 +43,7 @@ public class ForControlStatement {
 		// #2. for문의 특수한 형태 (무한루프)
 
 		/*
-		 * for(int i=0; ; i++) { System.out.print(i + " "); } //0 1 2 ... for(;;) {
-		 * System.out.print("무한루프"); } //무한루프 ...
+		 * for(int i=0; ; i++) { System.out.print(i + " "); } //0 1 2 ... for(;;) { System.out.print("무한루프"); } //무한루프 ...
 		 */
 		System.out.println();
 

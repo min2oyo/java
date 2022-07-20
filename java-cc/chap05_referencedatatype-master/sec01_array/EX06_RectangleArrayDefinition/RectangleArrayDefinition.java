@@ -1,6 +1,6 @@
 package sec01_array.EX06_RectangleArrayDefinition;
 
-/*2차원 배열의 세 가지 선언방법과 다양한 배열 선언*/
+/* 2차원 배열의 세 가지 선언방법과 다양한 배열 선언 */
 
 @SuppressWarnings("unused")
 public class RectangleArrayDefinition {

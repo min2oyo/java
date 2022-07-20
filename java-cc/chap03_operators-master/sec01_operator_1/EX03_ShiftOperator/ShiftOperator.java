@@ -1,6 +1,6 @@
 package sec01_operator_1.EX03_ShiftOperator;
 
-/*산술쉬프트와 논리쉬프트*/
+/* 산술쉬프트와 논리쉬프트 */
 
 public class ShiftOperator {
 

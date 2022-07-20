@@ -1,6 +1,6 @@
 package sec01_array.EX05_ReadArrayData;
 
-/*1차원 배열의 원소값 출력*/
+/* 1차원 배열의 원소값 출력 */
 
 import java.util.Arrays;
 

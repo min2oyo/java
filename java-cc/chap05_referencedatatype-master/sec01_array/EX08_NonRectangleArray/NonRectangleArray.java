@@ -1,6 +1,6 @@
 package sec01_array.EX08_NonRectangleArray;
 
-/*2차원 비정방행렬 배열의 3가지 원소값 대입 방법*/
+/* 2차원 비정방행렬 배열의 3가지 원소값 대입 방법 */
 
 public class NonRectangleArray {
 

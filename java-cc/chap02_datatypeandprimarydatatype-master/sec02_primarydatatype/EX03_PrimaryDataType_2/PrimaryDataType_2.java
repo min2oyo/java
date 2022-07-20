@@ -1,6 +1,6 @@
 package sec02_primarydatatype.EX03_PrimaryDataType_2;
 
-/*문자 값의 다양한 저장방법 및 출력*/
+/* 문자 값의 다양한 저장방법 및 출력 */
 
 public class PrimaryDataType_2 {
 

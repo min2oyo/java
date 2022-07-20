@@ -1,6 +1,6 @@
 package sec01_array.EX03_InitialValue;
 
-/*스택메모리의 초기값과 참조자료형의 강제초기값*/
+/* 스택메모리의 초기값과 참조자료형의 강제초기값 */
 
 import java.util.Arrays;
 

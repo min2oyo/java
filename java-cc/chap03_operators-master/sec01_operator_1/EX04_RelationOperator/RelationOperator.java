@@ -1,6 +1,6 @@
 package sec01_operator_1.EX04_RelationOperator;
 
-/*크기비교 및 등가비교와 참조자료형의 등가비교*/
+/* 크기비교 및 등가비교와 참조자료형의 등가비교 */
 
 public class RelationOperator {
 

@@ -1,6 +1,6 @@
 package sec01_selelctcontrolstatement.EX01_IfControlStatement;
 
-/*세 가지 TYPE의 if 제어문*/
+/* 세 가지 TYPE의 if 제어문 */
 
 public class IfControlStatement {
 

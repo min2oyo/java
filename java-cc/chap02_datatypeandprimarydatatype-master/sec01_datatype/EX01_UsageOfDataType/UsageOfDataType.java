@@ -1,6 +1,6 @@
 package sec01_datatype.EX01_UsageOfDataType;
 
-/*변수의 선언 및 값 대입을 위한 두 가지 방법*/
+/* 변수의 선언 및 값 대입을 위한 두 가지 방법 */
 
 public class UsageOfDataType {
 

@@ -1,6 +1,6 @@
 package sec01_array.EX01_ArrayDefinition;
 
-/*1차원 배열의 두 가지 선언 방법 방법과 다양한 배열 선언 예*/
+/* 1차원 배열의 두 가지 선언 방법 방법과 다양한 배열 선언 예 */
 
 @SuppressWarnings("unused")
 public class ArrayDefinition {

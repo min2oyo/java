@@ -1,6 +1,6 @@
 package sec01_operator_1.EX02_BitwiseOperator;
 
-/*다양한 진법의 표현과 비트연산자*/
+/* 다양한 진법의 표현과 비트연산자 */
 
 public class BitwiseOperator {
 

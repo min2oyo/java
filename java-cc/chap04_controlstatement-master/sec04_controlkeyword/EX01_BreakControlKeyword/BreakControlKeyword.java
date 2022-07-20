@@ -1,6 +1,6 @@
 package sec04_controlkeyword.EX01_BreakControlKeyword;
 
-/*break 제어 키워드*/
+/* break 제어 키워드 */
 
 @SuppressWarnings("unused")
 public class BreakControlKeyword {
