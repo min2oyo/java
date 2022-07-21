@@ -6,23 +6,33 @@ public class Aircon implements OnOff {
 	double _desiredTemperature = 26.0;
 
 	public Aircon(String id) {
+
 		this._id = id;
+
 	}
 
+	@Override
 	public boolean on() {
+
 		System.out.println(this._id + " → Aircon on : " + this._desiredTemperature);
 		return true;
+
 	}
 
 	public Boolean on(double desiredTemperature) {
+
 		this._desiredTemperature = desiredTemperature;
 		this.on();
 		return true;
+
 	}
 
+	@Override
 	public boolean off() {
+
 		System.out.println("Aircon off");
 		return true;
+
 	}
 
 }

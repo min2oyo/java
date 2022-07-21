@@ -15,6 +15,7 @@ public class AccountingIFApp {
 		double dividend1 = income * 0.5; // 동업자 1
 		double dividend2 = income * 0.3; // 동업자 2
 		double dividend3 = income * 0.2; // 동업자 3
+
 		if (income <= 10000.0) {
 			dividend1 = income * 1; // 동업자 1
 			dividend2 = income * 0; // 동업자 2

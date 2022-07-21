@@ -13,12 +13,13 @@ public class AuthAppLogical {
 		String password2 = "2222";
 
 		System.out.println("Hi. ");
+
 		if (inputId.equals(id) && (inputPs1.equals(password1) || inputPs2.equals(password2))) {
 			System.out.println("Master!");
 		} else {
 			System.out.println("Who are you?");
 		}
-		
+
 	}
 
 }

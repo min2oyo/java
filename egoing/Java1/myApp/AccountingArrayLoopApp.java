@@ -19,10 +19,11 @@ public class AccountingArrayLoopApp {
 		System.out.println("Total: " + total);
 		System.out.println("Expense: " + expense);
 		System.out.println("Income: " + income);
+
 		for (int i = 0; i < dividendRates.length; i++) {
 			System.out.println("Dividend " + (i + 1) + ": " + dividendRates[i] * income);
 		}
-		
+
 	}
 
 }

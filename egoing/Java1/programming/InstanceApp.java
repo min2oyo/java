@@ -21,20 +21,20 @@ public class InstanceApp {
 		p2.close();
 
 		// 비효율적
-//      PrintWriter.write("result1.txt", "Hello 1");	
-//      PrintWriter.write("result2.txt", "Hello 2");
-//      PrintWriter.write("result1.txt", "Hello 1");    
-//      PrintWriter.write("result2.txt", "Hello 2");
-//      PrintWriter.write("result1.txt", "Hello 1");    
-//      PrintWriter.write("result2.txt", "Hello 2");
-//      PrintWriter.write("result1.txt", "Hello 1");    
-//      PrintWriter.write("result2.txt", "Hello 2");
-//      PrintWriter.write("result1.txt", "Hello 1");    
-//      PrintWriter.write("result2.txt", "Hello 2");
-//      PrintWriter.write("result1.txt", "Hello 1");    
-//      PrintWriter.write("result2.txt", "Hello 2");
-//      PrintWriter.write("result1.txt", "Hello 1");    
-//      PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
+//		PrintWriter.write("result1.txt", "Hello 1");
+//		PrintWriter.write("result2.txt", "Hello 2");
 	}
 
 }

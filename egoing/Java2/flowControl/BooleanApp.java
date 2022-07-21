@@ -12,7 +12,7 @@ public class BooleanApp {
 
 		String foo = "Hello World";
 //		String true = "Hello World";	// reserved word
-		
+
 		System.out.println(foo.contains("World"));
 		System.out.println(foo.contains("ria"));
 

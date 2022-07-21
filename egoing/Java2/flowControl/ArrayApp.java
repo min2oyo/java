@@ -15,6 +15,7 @@ public class ArrayApp {
 		int[] scores = { 10, 100, 100 };
 		System.out.println(scores[1]);
 		System.out.println(scores.length);
+
 	}
 
 }

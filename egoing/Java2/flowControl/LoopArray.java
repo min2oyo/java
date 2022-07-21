@@ -10,11 +10,13 @@ public class LoopArray {
 		users[2] = "sekyung";
 
 		for (int i = 0; i < users.length; i++) {
+
 			if (i != users.length - 1) {
 				System.out.print(users[i] + ", ");
 			} else {
 				System.out.print(users[i]);
 			}
+
 		}
 
 	}

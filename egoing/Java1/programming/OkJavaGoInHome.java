@@ -7,6 +7,7 @@ import org.opentutorials.iot.Security;
 public class OkJavaGoInHome {
 
 	public static void main(String[] args) {
+
 		String id = "JAVA APT 507";
 
 		// Elevator call
@@ -23,6 +24,7 @@ public class OkJavaGoInHome {
 
 		Lighting floorLamp = new Lighting(id + " / floor Lamp");
 		floorLamp.on();
+
 	}
 
 }

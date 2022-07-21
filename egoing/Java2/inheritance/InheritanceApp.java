@@ -19,13 +19,17 @@ class Cal1 {
 	int v1, v2;
 
 	public Cal1(int v1, int v2) {
+
 		System.out.println("Cal1 init!!");
 		this.v1 = v1;
 		this.v2 = v2;
+
 	}
 
 	public int sum() {
+
 		return this.v1 + this.v2;
+
 	}
 
 }
@@ -33,12 +37,16 @@ class Cal1 {
 class Cal2 extends Cal1 {
 
 	public Cal2(int v1, int v2) {
+
 		super(v1, v2);
 		System.out.println("Cal3 init!!");
+
 	}
 
 	public int minus() {
+
 		return this.v1 - this.v2;
+
 	}
 
 }

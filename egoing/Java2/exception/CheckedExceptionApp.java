@@ -9,19 +9,24 @@ public class CheckedExceptionApp {
 
 		// try catch finally
 		FileWriter f = null;
+
 		try {
 			f = new FileWriter("data.txt");
 			f.write("Hello");
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
+
 			if (f != null) {
+
 				try {
 					f.close();
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
+
 			}
+
 		}
 
 	}

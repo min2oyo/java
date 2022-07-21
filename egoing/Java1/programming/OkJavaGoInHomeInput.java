@@ -10,6 +10,7 @@ import org.opentutorials.iot.Security;
 public class OkJavaGoInHomeInput {
 
 	public static void main(String[] args) {
+
 		// 입력
 		String id = args[0];
 		String bright = args[1];
@@ -34,6 +35,7 @@ public class OkJavaGoInHomeInput {
 		DimmingLights moodLamp = new DimmingLights(id + " moodLamp");
 		moodLamp.setBright(Double.parseDouble(bright));
 		moodLamp.on();
+
 	}
 
 }

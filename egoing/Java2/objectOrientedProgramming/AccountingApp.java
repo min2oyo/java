@@ -24,15 +24,21 @@ class Accounting {
 	public static double vatRate = 0.1; // 부가가치세율 // 어디에나 공통적인 값
 
 	public Accounting(double valueOfSupply) {
+
 		this.valueOfSupply = valueOfSupply;
+
 	}
 
 	public double getVAT() { // 부가가치세
+
 		return valueOfSupply * vatRate;
+
 	}
 
 	public double getTotal() { // 판매가
+
 		return valueOfSupply + getVAT();
+
 	}
 
 }

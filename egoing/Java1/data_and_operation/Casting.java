@@ -3,6 +3,7 @@ package data_and_operation;
 public class Casting {
 
 	public static void main(String[] args) {
+
 		double a = 1.1;
 		double b = 1;
 		System.out.println(a);
@@ -17,6 +18,7 @@ public class Casting {
 		// to String
 		String f = Integer.toString(1);
 		System.out.println(f.getClass()); // class java.lang.String
+
 	}
 
 }

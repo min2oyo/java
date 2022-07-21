@@ -13,15 +13,19 @@ public class AuthAppLoop {
 
 		// 검증
 		boolean isLogined = false;
+
 		for (int i = 0; i < users.length; i++) {
+
 			if (id.equals(users[i][0]) && password.equals(users[i][1])) {
 				isLogined = true;
 				break;
 			}
+
 		}
 
 		// 출력
 		System.out.println("Hi. ");
+
 		if (isLogined) {
 			System.out.println("Master!!");
 		} else {

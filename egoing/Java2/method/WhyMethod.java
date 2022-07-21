@@ -16,11 +16,13 @@ public class WhyMethod {
 	}
 
 	public static String twoTimes(String text, String delimiter) {
+
 		String out = "";
 		out += delimiter + "\n";
 		out += text + "\n";
 		out += text + "\n";
 		return out;
+
 	}
 
 }

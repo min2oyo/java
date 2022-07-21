@@ -5,7 +5,7 @@ public class AccountingApp {
 	public static void main(String[] args) {
 
 		double valueOfSupply = 20000.0; // 공급가
-		
+
 		double vatRate = 0.1; // 부가가치세율
 		double vat = valueOfSupply * vatRate; // 부가가치세
 		double total = valueOfSupply + vat; // 결제액

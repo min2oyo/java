@@ -11,6 +11,7 @@ public class AuthApp {
 		String password = "1111";
 
 		System.out.println("Hi. ");
+
 		if (inputId.equals(id) && inputPs.equals(password)) {
 			System.out.println("Master!");
 		} else {

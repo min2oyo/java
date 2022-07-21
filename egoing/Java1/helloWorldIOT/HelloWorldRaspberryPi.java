@@ -1,4 +1,3 @@
-package helloWorldIOT;
 //package HelloWorld_IOT;
 //
 //import com.pi4j.io.gpio.GpioController;
@@ -82,5 +81,7 @@ package helloWorldIOT;
 //			pin.low();
 //			Thread.sleep(LONG_INTERVAL);
 //		}
+//
 //	}
+//
 //}

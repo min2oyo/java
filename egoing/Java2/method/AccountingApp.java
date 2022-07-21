@@ -6,11 +6,15 @@ public class AccountingApp {
 	public static double vatRate = 0.1; // 부가가치세율
 
 	public static double getVAT() { // 부가가치세
+
 		return valueOfSupply * vatRate;
+
 	}
 
 	public static double getTotal() { // 판매가
+
 		return valueOfSupply + getVAT();
+
 	}
 
 	public static void main(String[] args) {
