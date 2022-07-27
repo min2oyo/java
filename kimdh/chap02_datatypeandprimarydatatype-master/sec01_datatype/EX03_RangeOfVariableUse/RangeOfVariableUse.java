@@ -10,12 +10,12 @@ public class RangeOfVariableUse {
 
 		{
 			int value2 = 5;
-			System.out.println(value1); // 3
-			System.out.println(value2); // 5
+			System.out.println(value1);	// 3
+			System.out.println(value2);	// 5
 		}
 
-		System.out.println(value1); // 3
-//		System.out.println(value2); // 오류
+		System.out.println(value1);	// 3
+//		System.out.println(value2);	// 오류
 
 	}
 

@@ -19,6 +19,7 @@ public class ArgumentOfMainMethod {
 		for (int i = 0; i < args.length; i++) {
 			System.out.println(args[i]);
 		}
+
 		System.out.println(Integer.parseInt(args[1]) + 1); // 4
 		System.out.println();
 
@@ -27,6 +28,7 @@ public class ArgumentOfMainMethod {
 		for (String s : args) {
 			System.out.println(s);
 		}
+
 		System.out.println();
 
 	}

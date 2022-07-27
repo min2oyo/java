@@ -10,10 +10,10 @@ public class UsageOfDataType {
 		int a = 3;
 		// 변수의 선언 + 값의 대입
 		int b;
-		b = 4; // 할당 안 하면 컴파일 오류 발생
+		b = 4;	// 할당 안 하면 컴파일 오류 발생
 
-		System.out.println(a); // 3
-		System.out.println(b); // 4
+		System.out.println(a);	// 3
+		System.out.println(b);	// 4
 
 	}
 

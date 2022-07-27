@@ -12,14 +12,14 @@ public class OverlappedControlStatement {
 		int value2 = 3;
 
 		if (value1 > 5) {
-			if (value2 < 2) {
-				System.out.println("실행1");
-			} else {
-				System.out.println("실행2");
-			}
+
+			if (value2 < 2) System.out.println("실행1");
+			else System.out.println("실행2");
+
 		} else {
 			System.out.println("실행3"); // 실행
 		}
+
 		System.out.println();
 
 		// #2. switch-for 중복
@@ -39,18 +39,23 @@ public class OverlappedControlStatement {
 			break;
 		// ...
 		}
+
 		System.out.println();
 		System.out.println();
 
 		// #3. for-for-if 중복
 
 		for (int i = 0; i < 3; i++) { // 3바퀴
+
 			for (int j = 0; j < 5; j++) { // 5바퀴
 				System.out.println(i + " " + j);
+
 				if (i == j) {
 					System.out.println("i=j");
 				}
+
 			}
+
 		}
 
 	}

@@ -9,7 +9,9 @@ class A {
 	int m = 3;
 
 	void print() {
+
 		System.out.println("객체 생성 및 활용");
+
 	}
 
 }
@@ -30,6 +32,7 @@ public class CreateObjectAndUsageOfMembers {
 
 		// @메서드를 활용: 메서드를 호출
 		a.print(); // 객체 생성 및 활용
+
 	}
 
 }

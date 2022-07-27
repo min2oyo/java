@@ -42,7 +42,7 @@ public class ValueAssignment {
 
 //		// 배열의 선언과 객체 대입을 분리 불가능
 //		int[] array6;
-//		array6={3,4,5}; // 불가능
+//		array6={3,4,5};	// 불가능
 //		System.out.println(array6[0] + " " + array6[1] + " " + array6[2]);
 
 	}

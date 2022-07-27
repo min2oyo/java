@@ -8,11 +8,11 @@ public class RelationOperator {
 
 		// #1. 크기비교 (<, >, <=, >=) : true, false
 
-		System.out.println(5 < 2); // false
-		System.out.println(5 > 2); // true
-		System.out.println(5 < 5); // false
-		System.out.println(5 <= 5); // true
-		System.out.println(5 >= 5); // true
+		System.out.println(5 < 2);	// false
+		System.out.println(5 > 2);	// true
+		System.out.println(5 < 5);	// false
+		System.out.println(5 <= 5);	// true
+		System.out.println(5 >= 5);	// true
 		System.out.println();
 
 		// #2. 등가비교(==, !=) : true, false

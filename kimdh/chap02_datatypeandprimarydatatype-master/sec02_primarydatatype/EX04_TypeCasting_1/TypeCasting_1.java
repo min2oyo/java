@@ -14,10 +14,10 @@ public class TypeCasting_1 {
 		float value3 = (float) 5.8;
 		double value4 = 16;
 
-		System.out.println(value1); // 5
-		System.out.println(value2); // 10
-		System.out.println(value3); // 5.8
-		System.out.println(value4); // 16.0
+		System.out.println(value1);	// 5
+		System.out.println(value2);	// 10
+		System.out.println(value3);	// 5.8
+		System.out.println(value4);	// 16.0
 		System.out.println();
 
 		// @1-2 캐스팅 방법 2 (L, F)
@@ -26,10 +26,10 @@ public class TypeCasting_1 {
 		float value7 = 5.8F;
 		float value8 = 5.8f;
 
-		System.out.println(value5); // 10
-		System.out.println(value6); // 10
-		System.out.println(value7); // 5.8
-		System.out.println(value8); // 5.8
+		System.out.println(value5);	// 10
+		System.out.println(value6);	// 10
+		System.out.println(value7);	// 5.8
+		System.out.println(value8);	// 5.8
 
 	}
 

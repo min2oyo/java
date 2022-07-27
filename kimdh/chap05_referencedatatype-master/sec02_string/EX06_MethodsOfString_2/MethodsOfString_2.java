@@ -1,6 +1,6 @@
 package sec02_string.EX06_MethodsOfString_2;
 
-/*String 클래스의 주요 메서드2*/
+/* String 클래스의 주요 메서드2 */
 
 import java.util.Arrays;
 

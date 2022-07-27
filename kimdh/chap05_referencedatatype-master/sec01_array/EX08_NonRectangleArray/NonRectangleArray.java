@@ -50,7 +50,7 @@ public class NonRectangleArray {
 		System.out.println();
 
 //		int[][] array6;
-//		array6={{1,2},{3,4,5}}; // 불가능
+//		array6={{1,2},{3,4,5}};	// 불가능
 
 	}
 

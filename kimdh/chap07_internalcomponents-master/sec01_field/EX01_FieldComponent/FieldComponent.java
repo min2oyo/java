@@ -24,6 +24,7 @@ class A {
 		// i = 외부에서 전달된 값
 		int j = 4; // 지역변수
 		System.out.println(i + j); // 7
+
 	}
 
 }
@@ -46,4 +47,5 @@ public class FieldComponent {
 		a.work1(); // work2() 안에 정의된 지역 변수를 스택 메모리에 추가
 
 	}
+
 }

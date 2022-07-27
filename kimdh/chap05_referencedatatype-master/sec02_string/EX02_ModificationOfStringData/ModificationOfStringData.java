@@ -1,6 +1,6 @@
 package sec02_string.EX02_ModificationOfStringData;
 
-/*String 객체의 문자열 수정 및 다른 참조자료형과의 비교*/
+/* String 객체의 문자열 수정 및 다른 참조자료형과의 비교 */
 
 import java.util.Arrays;
 

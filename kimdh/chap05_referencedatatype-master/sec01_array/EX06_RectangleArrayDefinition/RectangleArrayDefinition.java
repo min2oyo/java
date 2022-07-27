@@ -30,7 +30,7 @@ public class RectangleArrayDefinition {
 		boolean[][] array7 = new boolean[3][4];
 		int[][] array8 = new int[2][4];
 		double[][] array9 = new double[3][5];
-		String[][] array10 = new String[2][6]; // 참조자료형 배열
+		String[][] array10 = new String[2][6];	// 참조자료형 배열
 
 	}
 

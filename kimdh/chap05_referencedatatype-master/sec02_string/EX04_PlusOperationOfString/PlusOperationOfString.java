@@ -1,6 +1,6 @@
 package sec02_string.EX04_PlusOperationOfString;
 
-/*문자열의 ‘+’ 연산자(plus operation)*/
+/* 문자열의 ‘+’ 연산자(plus operation) */
 
 public class PlusOperationOfString {
 

@@ -12,8 +12,8 @@ public class PrimaryAndReferenceType {
 		int value2 = value1;
 		value2 = 7;
 
-		System.out.println(value1); // 3
-		System.out.println(value2); // 7
+		System.out.println(value1);	// 3
+		System.out.println(value2);	// 7
 		System.out.println();
 
 		// #2. 참조자료형의 대입연산 (stack 값 복사)
@@ -21,8 +21,8 @@ public class PrimaryAndReferenceType {
 		int[] array2 = array1;
 		array2[0] = 7;
 
-		System.out.println(array1[0]); // 7
-		System.out.println(array2[0]); // 7
+		System.out.println(array1[0]);	// 7
+		System.out.println(array2[0]);	// 7
 
 	}
 

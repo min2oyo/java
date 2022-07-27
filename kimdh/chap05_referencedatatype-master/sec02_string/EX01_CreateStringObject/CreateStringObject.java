@@ -1,6 +1,6 @@
 package sec02_string.EX01_CreateStringObject;
 
-/*String 객체 생성의 두 가지 방법*/
+/* String 객체 생성의 두 가지 방법 */
 
 public class CreateStringObject {
 

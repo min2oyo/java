@@ -53,7 +53,7 @@ public class RectangleValueAssignment {
 		System.out.println(array5[1][0] + " " + array5[1][1] + " " + array5[1][2] + " ");
 
 //		int[][] array6;
-//		array6={{1,2,3},{4,5,6}}; // 불가능
+//		array6={{1,2,3},{4,5,6}};	// 불가능
 
 	}
 

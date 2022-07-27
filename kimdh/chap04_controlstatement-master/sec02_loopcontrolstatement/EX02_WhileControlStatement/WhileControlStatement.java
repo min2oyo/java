@@ -13,13 +13,15 @@ public class WhileControlStatement {
 		while (a < 10) {
 			System.out.print(a + " ");
 			a++;
-		} // 0, 1, 2, ~ 9: 10회
+		}	// 0, 1, 2, ~ 9: 10회
+
 		System.out.println();
 
 		// @for문으로 변환
 		for (int i = 0; i < 10; i++) {
 			System.out.print(i + " ");
-		} // 0, 1, 2, ~ 9: 10회
+		}	// 0, 1, 2, ~ 9: 10회
+
 		System.out.println();
 
 		int b = 10;
@@ -27,13 +29,14 @@ public class WhileControlStatement {
 		while (b > 0) {
 			System.out.print(b + " ");
 			b--;
-		} // 10, 9, ~, 1: 10회
+		}	// 10, 9, ~, 1: 10회
+
 		System.out.println();
 
 		// @for문으로 변환
 		for (int i = 10; i > 0; i--) {
 			System.out.print(i + " ");
-		} // 10, 9, ~, 1: 10회
+		}	// 10, 9, ~, 1: 10회
 
 		// #2.while의 특수한 형태(무한루프)
 
@@ -48,12 +51,14 @@ public class WhileControlStatement {
 		int c = 0;
 
 		while (true) {
+
 			if (c > 10) {
 				break;
 			}
+
 			System.out.print(c + " ");
 			c++;
-		} // 0 ~ 10: 11번 수행
+		}	// 0 ~ 10: 11번 수행
 
 	}
 

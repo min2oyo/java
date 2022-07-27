@@ -12,7 +12,7 @@ public class ReadArrayData {
 
 		// #1. 배열의 길이 구하기
 
-		System.out.println(array.length); // 5
+		System.out.println(array.length);	// 5
 
 		// #2. 출력하기 1:
 
@@ -25,8 +25,7 @@ public class ReadArrayData {
 
 		// #3. 출력하기 2:
 
-		for (int i = 0; i < array.length; i++)
-			System.out.print(array[i] + " ");
+		for (int i = 0; i < array.length; i++) System.out.print(array[i] + " ");
 		System.out.println();
 
 		// #4. 출력하기 3:
@@ -35,6 +34,7 @@ public class ReadArrayData {
 		for (int k : array) {
 			System.out.print(k + " ");
 		}
+
 		System.out.println();
 
 		// #5. 출력하기 4 :
