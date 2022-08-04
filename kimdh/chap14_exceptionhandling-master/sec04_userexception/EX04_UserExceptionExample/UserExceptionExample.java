@@ -1,71 +1,66 @@
 package sec04_userexception.EX04_UserExceptionExample;
 
-//#점수가 음수인 경우에 예외발생
+// #점수가 음수인 경우에 예외발생
+@SuppressWarnings("serial")
 class MinusException extends Exception {
+
 	public MinusException() {
-		super();		
+
+		super();
+
 	}
+
 	public MinusException(String message) {
-		super(message);		
-	}	
-}
-//#점수가 100점을 초과하는 경우에 예외 발생
-class OverException extends Exception {
-	public OverException() {
-		super();		
+
+		super(message);
+
 	}
+
+}
+
+// #점수가 100점을 초과하는 경우에 예외 발생
+@SuppressWarnings("serial")
+class OverException extends Exception {
+
+	public OverException() {
+
+		super();
+
+	}
+
 	public OverException(String message) {
-		super(message);		
-	}	
+
+		super(message);
+
+	}
+
 }
 
 class A {
+
 	void checkScore(int score) throws MinusException, OverException {
-		if(score<0) {
-			throw new MinusException("예외발생 : 음수값입력");
-		}
-        else if (score>100)
-			throw new OverException("예외발생 : 100점 초과");
-        else 
-        	System.out.println("정상적인 값입니다.");
+
+		if (score < 0) throw new MinusException("예외발생: 음수값 입력");
+		else if (score > 100) throw new OverException("예외발생: 100점 초과");
+		else System.out.println("정상적인 값입니다.");
+
 	}
+
 }
 
 public class UserExceptionExample {
+
 	public static void main(String[] args) {
-				
+
 		A a = new A();
+
 		try {
-			a.checkScore(85);
-			a.checkScore(150);
+			a.checkScore(85);	// 정상적인 값입니다.
+			a.checkScore(150);	// 예외발생: 100점 초과
 		} catch (MinusException | OverException e) {
 			System.out.println(e.getMessage());
 		}
+
 	}
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -8,7 +8,7 @@ class A {
 class B extends A {
 }
 
-@SuppressWarnings("unused")
+@SuppressWarnings({ "unused", "null" })
 public class UncheckedException {
 
 	public static void main(String[] args) {
