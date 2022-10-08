@@ -1,0 +1,22 @@
+package s01_datatype;
+
+/* 변수의 생존기간 */
+
+public class Ex03_RangeOfVariableUse {
+
+	public static void main(String[] args) {
+
+		int value1 = 3;
+
+		{
+			int value2 = 5;
+			System.out.println(value1);	// 3
+			System.out.println(value2);	// 5
+		}
+
+		System.out.println(value1);	// 3
+//		System.out.println(value2);	// 오류
+
+	}
+
+}
