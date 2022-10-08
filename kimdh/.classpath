@@ -5,27 +5,27 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="chap01_basicsyntax"/>
-	<classpathentry kind="src" path="chap02_datatypeandprimarydatatype"/>
-	<classpathentry kind="src" path="chap03_operators"/>
-	<classpathentry kind="src" path="chap04_controlstatement"/>
-	<classpathentry kind="src" path="chap05_referencedatatype"/>
-	<classpathentry kind="src" path="chap06_createobjectandusageofmembers"/>
-	<classpathentry kind="src" path="chap07_internalcomponents"/>
-	<classpathentry kind="src" path="chap08_externalcomponents"/>
-	<classpathentry kind="src" path="chap09_modifier_1"/>
-	<classpathentry kind="src" path="chap10_inheritancepolymorphism"/>
-	<classpathentry kind="src" path="chap11_modifier_2"/>
-	<classpathentry kind="src" path="chap12_abstractclassinterface"/>
-	<classpathentry kind="src" path="chap13_innerclassandinnerinterface"/>
-	<classpathentry kind="src" path="chap14_exceptionhandling"/>
-	<classpathentry kind="src" path="chap15_thread"/>
-	<classpathentry kind="src" path="chap16_generic"/>
-	<classpathentry kind="src" path="chap17_collectionframework"/>
-	<classpathentry kind="src" path="chap18_lambdaexpression"/>
-	<classpathentry kind="src" path="chap19_javaio"/>
-	<classpathentry kind="src" path="chap20_javanetwork"/>
+	<classpathentry kind="src" path="01 BasicSyntax"/>
+	<classpathentry kind="src" path="02 DataTypeAndPrimaryDataType"/>
+	<classpathentry kind="src" path="03 Operators"/>
+	<classpathentry kind="src" path="04 ControlStatement"/>
+	<classpathentry kind="src" path="05 ReferenceDataType"/>
+	<classpathentry kind="src" path="06 CreateObjectAndUsageOfMembers"/>
+	<classpathentry kind="src" path="07 InternalComponents"/>
+	<classpathentry kind="src" path="08 ExternalComponents"/>
+	<classpathentry kind="src" path="09 Modifier_1"/>
+	<classpathentry kind="src" path="10 InheritancePolymorphism"/>
+	<classpathentry kind="src" path="11 Modifier_2"/>
+	<classpathentry kind="src" path="12 AbstractClassInterface"/>
+	<classpathentry kind="src" path="13 InnerClassAndInnerInterface"/>
+	<classpathentry kind="src" path="14 ExceptionHandling"/>
+	<classpathentry kind="src" path="15 Thread"/>
+	<classpathentry kind="src" path="16 Generic"/>
+	<classpathentry kind="src" path="17 CollectionFramework"/>
+	<classpathentry kind="src" path="18 LambdaExpression"/>
+	<classpathentry kind="src" path="19 JavaIO"/>
+	<classpathentry kind="src" path="20 JavaNetwork"/>
 	<classpathentry kind="src" path="JavaSwing"/>
-	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="Test"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
