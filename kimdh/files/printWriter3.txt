@@ -1,4 +1,4 @@
-PrintWriter 예제#3
+PrintWriter 예제3
 13
 5.8
 안녕하세요! 반갑습니다.
