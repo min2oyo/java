@@ -13,7 +13,9 @@ public class Hi {
 		int sum = 0;
 
 		for (int k : score) {
+
 			sum += k;
+
 		}
 
 		double avg = (double) sum / score.length;
